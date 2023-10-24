@@ -11,7 +11,7 @@
 |---------------------------|------------|
 | Akhmad Mustofa Solikin    | 5025211230 |
 
-## Topik FP: Music Streaming Service
+## DATABASE BARANG
 
 How to use:
 1. Prepare database (follow .env)
