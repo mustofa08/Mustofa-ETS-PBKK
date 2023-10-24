@@ -9,7 +9,6 @@
 
 | Nama                      | NRP        |
 |---------------------------|------------|
-| Alexander Weynard Samsico | 5025211014 |
 | Akhmad Mustofa Solikin    | 5025211230 |
 
 ## Topik FP: Music Streaming Service
@@ -23,5 +22,3 @@ How to use:
 php artisan serve
 php artisan storage:link //if needed
 ```  
-4. Add Song
-5. Submit and go back to see the result!
